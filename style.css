@@ -1,0 +1,46 @@
+
+
+
+#div3 {
+    float: left;
+    
+}
+.a {float: right;
+
+    margin-right: 10px
+}
+#text {
+    align-items: flex-end;
+    
+    overflow: auto;
+
+}
+#background {
+    background-image: url("img/bat_cover.jpg");
+    padding-top: 50px;
+    height: 350px;
+    margin-left: 250px;
+    color: #fff;
+    background-repeat: no-repeat;
+    max-width: 1000px;
+    
+    
+}
+#content{
+    background-color: rgba(0, 0, 0,0.7);
+    max-width: 450;
+    padding: 30px 20px;
+    margin-top: 50px;
+}
+
+#logo{
+    float: left;
+}
+.navv{float: right;
+margin-right: 10px;
+}
+
+ul{list-style-type: none;}
+    a {display: block;
+    text-decoration: none;
+}
